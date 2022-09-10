@@ -17,3 +17,5 @@
 <li>JQuery</li>
 <h3>:dart: Status do Projeto</h3>
 <p>Em andamento.</P>
+
+<p>Disponível em:  https://flavia964.github.io/senai-projeto-gameMania/</P>
