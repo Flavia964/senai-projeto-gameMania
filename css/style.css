@@ -142,6 +142,13 @@ label {
     font-weight: bold;
 }
 
+#input-senha {
+    border-bottom: 2px solid #323232;
+    padding: 10px;
+    font-size: 1rem;
+    margin-bottom: 20px;
+}
+
 #input-login {
     border-bottom: 2px solid #323232;
     padding: 10px;
