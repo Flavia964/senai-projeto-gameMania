@@ -38,3 +38,23 @@ function mostrarForca(forca){
 
 
 }
+
+// --Jquery--
+/*$('#navbar-items').on('mouseenter',botao)
+function botao() {
+    $('li').css({'color':'red'})
+}*/
+
+
+$(function(){  
+    $("#footer-details").hover(
+        function(){$(this).css("background", "rgb(3, 34, 100)")},
+        function(){$(this).css("background", "rgb(80, 130, 240)")}
+    );
+});
+
+setInterval (function (){
+    $('h2').fadeOut(300)
+    $('h2').fadeIn(600)
+},1000)
+

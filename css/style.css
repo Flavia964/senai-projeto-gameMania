@@ -27,10 +27,13 @@
 .bi-list {
  color:white;
 }
-
+/* DESTAQUES*/
  #Destaques {
     background-image: url(../img/image\ 28.png);
+}
 
+#Product {
+   filter: drop-shadow(8px 8px 4px #1cd4ec);
 }
 
 .carousel-indicators [data-bs-target]{
